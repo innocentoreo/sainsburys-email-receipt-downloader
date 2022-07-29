@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/innocentoreo/sainsburys-email-receipt-downloader#readme",
   "dependencies": {
+    "js-base64": "^3.7.2",
     "node-imap": "^0.9.6",
     "ts-node": "^10.9.1",
     "ts-node-dev": "^2.0.0",
